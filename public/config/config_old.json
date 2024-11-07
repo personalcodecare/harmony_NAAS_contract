@@ -1,0 +1,22 @@
+
+{
+  "CONTRACT_ADDRESS": "0x9dc95cFb1D580C3d3253686Bbe512907Fa21807F",
+  "USDT_CONTRACT_ADDRESS": "0xc2F106fDDb60136b058E37aEF7C942e980d470dA",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9dc95cFb1D580C3d3253686Bbe512907Fa21807F",
+  "NETWORK": {
+    "NAME": "Harmony One",
+    "SYMBOL": "ONE",
+    "USDTSYMBOL": "USDT",
+    "ID": 4
+  },
+  "NFT_NAME": "NFT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 4000,
+  "ETH_COST": 1,
+  "APPROVE_USDT" : 10000,
+  "DISPLAY_COST": "1",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
